@@ -1,7 +1,7 @@
 public class Cliente {
     //declarando variáveis;
     private String nome;
-    private String cpf;
+    private int telefone;
     private int agencia;
     private double saldo;
     //private: modificador de acesso
